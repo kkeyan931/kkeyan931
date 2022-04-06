@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [weather-monitoring-system-using-Node-Red](https://github.com/kkeyan931/weather-monitoring-system-using-Node-Red)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Vue js, express-nodejs**
 
 - 👯 I’m looking to collaborate on **-**
 
