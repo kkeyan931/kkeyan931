@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkeyan931&label=Profile%20views&color=0e75b6&style=flat" alt="kkeyan931" /> </p>
 
-- 🔭 I’m currently working on [weather-monitoring-system-using-Node-Red](https://github.com/kkeyan931/weather-monitoring-system-using-Node-Red)
+- 🔭 I’m currently working on [awesome-low-level-design](https://github.com/kkeyan931/awesome-low-level-design)
 
-- 🌱 I’m currently learning **Vue js, express-nodejs**
+- 🌱 I’m currently learning **Spring, Hybris, LLD, HLD, DSA**
 
 - 👯 I’m looking to collaborate on **-**
 
